@@ -9,3 +9,6 @@ cd to the location of the script
 and type the following command: 
 python check_pass.py typeanypassword
 NOTE: When you type the command change typeanypassword with the password you want to check if it has ever been hacked.
+
+# Requirements
+pip install requests
